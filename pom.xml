@@ -32,8 +32,8 @@
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>demo-test</id>
-		    <url>http://98.84.183.232:8081/repository/demo-test/</url>
+		    <id>repo</id>
+		    <url>http://3.85.173.217:8081/repository/repo/</url>
 		</repository>
   	</distributionManagement>
 	
