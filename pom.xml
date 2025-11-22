@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>repo</id>
-		    <url>http://3.85.173.217:8081/repository/repo/</url>
+		    <url>http://54.83.86.23:8081/repository/repo/</url>
 		</repository>
   	</distributionManagement>
 	
